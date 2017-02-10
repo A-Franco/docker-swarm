@@ -1,2 +1,3 @@
 # docker-swarm
-docker swarm functions, with version 1.13
+
+  Practicing docker swarm with docker version 1.13
